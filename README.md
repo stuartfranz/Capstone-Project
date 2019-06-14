@@ -4,8 +4,6 @@
 
 ### Introduction
 
----
-
 Accross Reddit there are multiple different Subreddits Users will post to with a goal of determining one thing or another. r/AmITheAsshole is a subreddit that a user would go to in order to get other Users' opinions on their specific story with the goal of determining if they are in the right or the wrong.
 
 A great feature about this subreddit is that Users' are encouraged to post their opinion in the comments in a standardised format. 'NTA' meaning that the commenter supports the User writing the story and 'YTA' meaning that they thought the User writing the story was in the wrong. This allows me to access the comments from each post and talley up they ammount of people voting either way and assign each of the posts a label of 'NTA' or 'YTA'
