@@ -17,16 +17,20 @@ risks/limitations/assumptions
 ---
 
 **[Data Collection and Data Dictiionary](./Data_Dict.md)**
+Where I got the Data from and a Summary of each feature used
 
 **[Data Cleaning](./Sub2_Cleaning.ipynb)**
+My various methods used to clean the Data
 
 **[EDA (Pre Vader Sentiment Feature Engineering)](./Sub3_EDA.ipynb)**
 
 **[Full EDA](./Sub5_Further_EDA.ipynb)**
 
 **[Feature Engineering + Modelling](./Sub4_Vader_Sentiment.ipynb)**
+Creating Features using the collected data and models
 
 #### Failed Models:
+Note: these are unformatted as they were dead ends
 
 **[Regression Model](./Sub6_Regression_Analysis.ipynb)**
 
@@ -35,3 +39,4 @@ risks/limitations/assumptions
 ---
 
 ## [Summary](./Summary.md)
+Final Summary of all Models
