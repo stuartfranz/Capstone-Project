@@ -1,7 +1,6 @@
 <!--
  .tab { margin-left: 40px; }
 -->
-</style>
 
 # Summary
 
