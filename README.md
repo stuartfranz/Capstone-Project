@@ -38,5 +38,5 @@ Note: these are unformatted as they were dead ends
 
 ---
 
-## [Summary](./Summary.md)
+**[Summary](./Summary.md)**
 Final Summary of all Models
